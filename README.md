@@ -17,4 +17,4 @@ Wokwi Project Link -https://wokwi.com/projects/348454508205965906
 
 Node RED Dashboard Link - https://node-red-wjldy-2022-11-05.au-syd.mybluemix.net/ui/#!/0?socketid=PyqH93j_A9ODVDSLAAAB
 
-Demo Link -https://youtu.be/ROmasWUNQ2I
+Demo Link -https://youtu.be/nWBZKgQDPpY
